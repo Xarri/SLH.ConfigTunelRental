@@ -2,6 +2,8 @@
 
 namespace cfgTunelRental
 {
+    //Configuraciones para tunel RENTAL.
+    //Autor: Pablo Glez.
     public class cfgTunelRental
     {
         /// <summary>
